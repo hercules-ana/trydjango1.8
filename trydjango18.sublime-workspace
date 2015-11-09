@@ -1,0 +1,906 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fullcontac",
+				"fullcontactcollect"
+			],
+			[
+				"load",
+				"load_url"
+			],
+			[
+				"locu",
+				"locu_search"
+			],
+			[
+				"user_b_answe",
+				"user_b_answers"
+			],
+			[
+				"user_b_an",
+				"user_b_answer"
+			],
+			[
+				"user_b_a",
+				"user_b_answer"
+			],
+			[
+				"user_b_answ",
+				"user_b_answers"
+			],
+			[
+				"user_b",
+				"user_b_answer"
+			],
+			[
+				"user_a",
+				"user_a_answer"
+			],
+			[
+				"User",
+				"UserAnswer"
+			],
+			[
+				"my",
+				"my_points"
+			],
+			[
+				"myan",
+				"my_answer_importance"
+			],
+			[
+				"co",
+				"coworker_answer_importance"
+			],
+			[
+				"import",
+				"importance_level"
+			],
+			[
+				"user",
+				"user_answer"
+			],
+			[
+				"user_asn",
+				"user_answer_exists"
+			],
+			[
+				"questi",
+				"question_instance"
+			],
+			[
+				"ans",
+				"answer_instance"
+			],
+			[
+				"Sign",
+				"SignUp"
+			],
+			[
+				"Ques",
+				"QuestionAdmin"
+			],
+			[
+				"Answe",
+				"AnswerTabularInline"
+			],
+			[
+				"Categor",
+				"CategorySerializer"
+			],
+			[
+				"Catego",
+				"CategoryListAPIView"
+			],
+			[
+				"Video",
+				"VideoSerializer"
+			],
+			[
+				"oath2",
+				"oauth2_settings"
+			],
+			[
+				"Beer",
+				"BeerSerializer"
+			],
+			[
+				"new",
+				"new_user"
+			],
+			[
+				"Registrati",
+				"RegistrationProfile"
+			],
+			[
+				"Favourite",
+				"FavouriteSports"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/templates/registration/login.html",
+			"settings":
+			{
+				"buffer_size": 752,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/navbar.html",
+			"settings":
+			{
+				"buffer_size": 2054,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/trydjango18/settings/__init__.py",
+			"settings":
+			{
+				"buffer_size": 108,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/trydjango18/settings/production.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/trydjango18/settings/local.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/trydjango18/settings/base.py",
+			"settings":
+			{
+				"buffer_size": 3382,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/trydjango18/old_settings.py",
+			"settings":
+			{
+				"buffer_size": 3365,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"PYTHON",
+				"Set Syntax: Python"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/newsletter",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/templates",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/trydjango18",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/trydjango18/settings"
+	],
+	"file_history":
+	[
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/trydjango18/settings.py",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/templates/home.html",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/newsletter/views.py",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/trydjango18/views.py",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/templates/about.html",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/trydjango18/urls.py",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/templates/registration/activation_complete.html",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/templates/registration/activate.html",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/templates/registration/registration_complete.html",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/templates/registration/registration_form.html",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/templates/forms.html",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/newsletter/forms.py",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/templates/navbar.html",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/templates/base.html",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/templates/javascript.html",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/templates/head_css.html",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/newsletter/templates/forms.html",
+		"/private/var/folders/3p/9tbks2297hz_l56tp0n935br0000gn/T/fz3temp-1/blog_f.php",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/newsletter/templates/home.html",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/newsletter/admin.py",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/newsletter/models.py",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/src/manage.py",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/trydjango18/pip-selfcheck.json",
+		"/private/var/folders/3p/9tbks2297hz_l56tp0n935br0000gn/T/fz3temp-1/style.css",
+		"/private/var/folders/3p/9tbks2297hz_l56tp0n935br0000gn/T/fz3temp-1/screen.css",
+		"/private/var/folders/3p/9tbks2297hz_l56tp0n935br0000gn/T/fz3temp-1/header.php",
+		"/Users/Anastasiou/Desktop/indent.html",
+		"/Users/Anastasiou/Downloads/Proxima-v2-2-1 2/sample contents/theme settings/demos settings/proxima_demo_4.json",
+		"/Users/Anastasiou/Downloads/Proxima-v2-2-1 2/sample contents/import demo/shop_content.xml",
+		"/Users/Anastasiou/Downloads/Proxima-v2-2-1 2/sample contents/import demo/demos/proxima_demo4.xml",
+		"/private/var/folders/3p/9tbks2297hz_l56tp0n935br0000gn/T/fz3temp-1/blog_r.php",
+		"/Users/Anastasiou/Downloads/wordpress/wp-config.php",
+		"/Users/Anastasiou/Desktop/locu.py",
+		"/Users/Anastasiou/Desktop/fullcontact.py",
+		"/Users/Anastasiou/Desktop/soup.py",
+		"/Users/Anastasiou/Downloads/Try-Django-1.8-master/src/requirements.txt",
+		"/Users/Anastasiou/Downloads/Try-Django-1.8-master/trydjango18.sublime-project",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/E87EA226-75D3-40F2-A2FB-1676ABBE9119/site.css",
+		"/Users/Anastasiou/Desktop/svg",
+		"/Users/Anastasiou/Desktop/datepicker.sass",
+		"/Users/Anastasiou/Development/Websites/codingforentrepreneurs/lwc/lwc.sublime-project",
+		"/Users/Anastasiou/Development/Websites/social-airways-docs/Fabric - Social Airways/config-prod.yaml",
+		"/Users/Anastasiou/Downloads/Proxima-v2-1-1/sample contents/import demo/demos/proxima_demo4.xml",
+		"/Users/Anastasiou/Desktop/offcanvas",
+		"/Users/Anastasiou/Downloads/Proxima-v2-1-1/sample contents/import demo/demos/proxima_demo5.xml",
+		"/Users/Anastasiou/Downloads/Proxima-v2-1-1/sample contents/import demo/demos/proxima_demo6.xml",
+		"/Users/Anastasiou/Downloads/Proxima-v2-1-1/sample contents/import demo/demos/proxima_demo7.xml",
+		"/Users/Anastasiou/Downloads/Proxima-v2-1-1/sample contents/import demo/demos/proxima_original.xml",
+		"/Users/Anastasiou/Downloads/Proxima-v2-1-1/sample contents/theme settings/demos settings/proxima_original.json",
+		"/Users/Anastasiou/Downloads/Proxima-v2-1-1/sample contents/theme settings/demos settings/proxima_demo_7.json",
+		"/Users/Anastasiou/Downloads/Proxima-v2-1-1/sample contents/theme settings/demos settings/proxima_demo_6.json",
+		"/Users/Anastasiou/Downloads/Proxima-v2-1-1/sample contents/theme settings/demos settings/proxima_demo_5.json",
+		"/Users/Anastasiou/Downloads/Proxima-v2-1-1/sample contents/theme settings/demos settings/proxima_demo_4.json",
+		"/Users/Anastasiou/Downloads/Proxima-v2-1-1/sample contents/theme settings/demos settings/proxima_demo_3.json",
+		"/Users/Anastasiou/Downloads/Proxima-v2-1-1/sample contents/theme settings/demos settings/proxima_demo_2.json",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/E33062EF-4097-4249-9268-DB02A6517181/meta-service_block_vertical.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/C7DC3E4D-5574-45F1-BA14-5F3C1AD3A7B1/index.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/3C9DF1B3-246B-4D7B-9460-7ACF944FBC5F/wp-config.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/BD55723D-8FCF-4790-8F19-51DBB4025A11/wp-config.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/71CFBEB9-F5BB-4127-89A4-46B805CAA8F2/wp-config.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/C8EA0DA3-0293-4846-A300-F2F3AA0336CE/g1_single_nav.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/BF06B898-475F-4917-BCD8-900F491A2510/g1_primary_page.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/5EFA438F-7D72-411B-94D9-681E448152DF/g1_template_page_nav_right.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/3FA61A31-4BC0-4374-95BA-D3AB1C604C6B/g1_template_single_overview_right.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/75CD9015-7ABD-4F31-A192-E88EC203D177/g1_template_single_sidebar_right.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/3C2B0CF8-DBEA-4314-B77C-D8E022CC4AB7/index.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/93241889-F296-4867-B632-AC69D71661BC/wp-config.php",
+		"/Users/Anastasiou/Downloads/el.mo",
+		"/Users/Anastasiou/Desktop/matchmaker/src/newsletter/forms.py",
+		"/Users/Anastasiou/Desktop/matchmaker/src/matchmaker/urls.py",
+		"/Users/Anastasiou/Desktop/matchmaker/src/templates/questions/home.html",
+		"/Users/Anastasiou/Desktop/matchmaker/src/matchmaker/wsgi.py",
+		"/Users/Anastasiou/Desktop/matchmaker/src/matchmaker/settings/production.py",
+		"/Users/Anastasiou/Desktop/matchmaker/src/questions/models.py",
+		"/Users/Anastasiou/Desktop/matchmaker/src/newsletter/views.py",
+		"/Users/Anastasiou/Desktop/matchmaker/src/matchmaker/views.py",
+		"/Users/Anastasiou/Desktop/matchmaker/src/questions/admin.py",
+		"/Users/Anastasiou/Desktop/matchmaker/src/templates/home.html",
+		"/Users/Anastasiou/Desktop/matchmaker/src/questions/views.py",
+		"/Users/Anastasiou/Desktop/matchmaker/src/matchmaker/settings/local.py",
+		"/Users/Anastasiou/Desktop/matchmaker/src/matchmaker/settings/base.py",
+		"/Users/Anastasiou/Desktop/matchmaker/webfaction/httpd.conf",
+		"/Users/Anastasiou/Desktop/matchmaker/src/manage.py",
+		"/Users/Anastasiou/Desktop/matchmaker/src/.gitignore",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/2FC5ECCA-D6AF-4C46-8BFF-56E1A3EE906B/shailan-dropdown.min.css",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/598574AD-AD58-4301-AE7A-D69204CF67D4/stylesheet.min.css",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/3C8A949A-DCD0-4C27-9151-6157FD2BF896/style_dynamic.css",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/7E6A43B5-6704-426D-AB9F-E3CECCA0C16A/header.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/66BEB9CD-7425-462E-BF62-60BA499DF14A/header-g1-simple.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/6BD18B27-062F-48B9-8447-D55168B1F9D9/g1_primary_collection.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/B0289B19-4BEF-49D0-88C7-B537FA8890B4/g1_template_archive_1col_sidebar_right.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/22E40C7F-760F-4D04-80D2-0FBA9370DBB5/index.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/44116B0C-A74D-4D94-A7A3-D44278A14A48/g1_primary_collection.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/746DE885-F7A3-4D60-AFC4-91FC78C722CC/g1_template_archive_1col_sidebar_right.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/2C470E58-611F-4FC1-BE40-23C53916D2B6/g1-post-formats.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/0E55CB15-040D-473B-AE9D-4B4AF1E136DD/shortcodes.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/DB97C13C-ADE3-42B9-A3B8-0078CD3EA60A/functions.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/9717246E-2E80-4C71-BA48-BE34080D9173/g1-posts.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/89446291-C6B6-4A17-8147-61761FD7D9B2/theme-functions.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/5FFCC1DB-BDCD-497A-8D29-5FDDD1962B38/g1-contact-form.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/E0B24D0D-69BF-48F9-A6EE-8CA1A59514C3/functions.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/59A6C30E-80C2-4D80-B6D2-77D44B740B47/g1-framework.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/A3ED4366-2EA1-445F-924B-762C188018ED/shortcode-functions.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/CB10FC4B-C423-4E3A-9314-9FC367846124/shortcode-functions.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/9ACBABDC-6BD0-464E-97DB-0B860D82C1D1/symple-shortcodes.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/AB4F39AD-C93D-412C-9C72-D30B0DE338B2/shortcode-functions.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/696412A4-0CB5-4171-BFED-F42D880FF23C/symple_shortcodes_tinymceq.js",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/02D34642-E255-4C28-B803-4BB04C608DBE/symple-shortcodes.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/E268C1B4-DBE8-489B-9AFB-5AAB9D4F5BC6/shortcode-functions.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/F71521CF-78C6-45A1-9AC3-67349A73F37F/symple-shortcodes.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/5E5644C1-0FDB-4C3E-AAED-49144A0B43B2/style_dynamic.css",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/3C6F10B7-0C27-4D2B-A4AA-F46599715D75/index.css",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/2D7E50A2-5124-4F0B-84B3-F810086D88D6/stylesheet.min.css",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/E9536EC1-1D51-4665-8D65-C2305452CF8C/stylesheet.min.css",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/8C05E193-4875-4CE6-98A0-B8728F642DC1/app.css",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/88C5410A-8EFB-4A99-B9F1-6B7A7C9E0A44/lang.en.php",
+		"/Users/Anastasiou/Desktop/Instagram Style/Podfile",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/336161F9-BD99-4883-9F03-AB182AD53331/blog_single-loop.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/14128CFC-7AED-4878-B611-A3608231BEE3/blog_large_image-loop.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/EA0AB70A-2F05-4D5E-9E12-8AA0A9492669/blog_single-loop.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/AA1AF520-0DB1-4866-8C3B-BCEF65BB3B75/single.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/94AA20F9-36C1-4142-A75F-45DB6528449F/blog_large_image-loop.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/7D92F6B7-B5FB-44B0-8555-DDCEE1681C6D/blog_large_image_whole_post-loop.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/38776FFD-E2E7-4459-AC3F-79917C94A821/index.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/128D0ACA-D567-4C0D-A3D9-C6594C14BD1C/header.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/4B8CA8D4-0E58-4553-B277-C36ED8DFD17F/home.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/D92AD14D-CA4E-4C17-A404-1D1C5DBD144E/single.php",
+		"/Users/Anastasiou/Library/Caches/Cleanup At Startup/Transmit/97AAFD83-54F1-42C8-8D1A-F1D16E0A1AE1/blog-large-image.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"form",
+			"<li id=\"text-8\" class=\"widget widget_text\"><h2 class=\"widgettitle\">Contact Info</h2>\n			<div class=\"textwidget\"><ul class=\"address\">\n<li><i class=\"fa fa-map-marker\"></i>732/21 Second Street, Manchester, King Street, Kingston United Kingdom</li>\n<li><i class=\"fa fa-phone\"></i>345-677-554</li>\n<li><i class=\"fa fa-mobile\"></i>323-678-567</li>\n<li><i class=\"fa fa-envelope\"></i>info@proxima.com</li>\n<li><i class=\"fa fa-globe\"></i>themegoods.com</li>\n</ul>\n</div>\n		</li>",
+			"maps",
+			"lon",
+			"lat",
+			"300px",
+			"restaurant",
+			"bar",
+			"restaurant",
+			"memory",
+			"ini_set",
+			"lang",
+			"wp_lang",
+			"Home",
+			"debug",
+			"script",
+			"debug",
+			"question",
+			"questions",
+			"useranswer",
+			"clean_data",
+			"trydjang",
+			"catego",
+			"padding-right",
+			"logo",
+			"get_file",
+			"archive-title",
+			"More",
+			"Submit",
+			"More",
+			"contact",
+			"contact info",
+			"Section",
+			"email",
+			"contact_info_shortcode",
+			"Contact Info",
+			"contact-info",
+			"h2",
+			"p {",
+			"header_ti",
+			"logo-lv",
+			"post_text_inner",
+			"sp_brand_item",
+			"sp_brand_holder",
+			"rev_slider",
+			"USD",
+			"'$'",
+			"Dollar",
+			"$",
+			"post_info",
+			"style=",
+			"post_info",
+			"h2",
+			"<h2>",
+			"<h2",
+			"blog_single",
+			"h2",
+			"blog",
+			"h2",
+			"single",
+			"debug",
+			"log_",
+			"videos",
+			"Comment",
+			"comment_set",
+			"comment",
+			"rest_fram",
+			"img",
+			"top-nav",
+			"header",
+			"logo",
+			"guide",
+			"following",
+			"<ul",
+			"menu-item",
+			"foll",
+			"following",
+			"sigl",
+			":",
+			"class=\"header\"",
+			"<head",
+			"header",
+			"49px",
+			"logo",
+			"img/",
+			"twit",
+			"facebook",
+			"photo",
+			"words",
+			"thing",
+			"every",
+			"everything",
+			"bg.jpg",
+			"84px",
+			"lj-logo",
+			"search-dialog",
+			"hr",
+			"hr/",
+			"LoginAPIView",
+			"send_acti",
+			"send_email",
+			"tokenserialize",
+			"create_username_field()",
+			"create_username_field",
+			"Site",
+			"models.",
+			"models",
+			"app.",
+			"LetsNudge",
+			"post_delete",
+			"save",
+			"now",
+			"LetsNudge",
+			"facebook_key",
+			"div",
+			"logo",
+			"do",
+			"joe",
+			"bag",
+			"lufthansa"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<h2 style=\"color:#000000\">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/templates/registration/login.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								420,
+								420
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/templates/navbar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1081,
+								1081
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 84.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/trydjango18/settings/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/trydjango18/settings/production.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/trydjango18/settings/local.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/trydjango18/settings/base.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								480,
+								480
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/trydjango18/old_settings.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3365,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango18.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sett",
+				"trydjango18/settings.py"
+			],
+			[
+				"setti",
+				"trydjango18/settings.py"
+			],
+			[
+				"forms.",
+				"templates/forms.html"
+			],
+			[
+				"form",
+				"newsletter/forms.py"
+			],
+			[
+				"navb",
+				"templates/navbar.html"
+			],
+			[
+				"url",
+				"trydjango18/urls.py"
+			],
+			[
+				"views",
+				"src/questions/views.py"
+			],
+			[
+				"singl",
+				"src/templates/questions/single.html"
+			],
+			[
+				"forms",
+				"src/questions/forms.py"
+			],
+			[
+				"seria",
+				"src/videos/serializers.py"
+			],
+			[
+				"urls",
+				"src/srvup/urls.py"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"css",
+				"css/style.css"
+			],
+			[
+				"feature-",
+				"feature-elements.html"
+			],
+			[
+				"rentals",
+				"rentals.html"
+			],
+			[
+				"rentals-details.html",
+				"rentals-details.html"
+			],
+			[
+				"succe",
+				"success-payment.html"
+			],
+			[
+				"40",
+				"404.html"
+			],
+			[
+				"user-profile-pho",
+				"user-profile-photos.html"
+			],
+			[
+				"about.",
+				"about.html"
+			],
+			[
+				"contact",
+				"contact-us.html"
+			],
+			[
+				"setting",
+				"app/settings.py"
+			],
+			[
+				"models",
+				"api_v1/models.py"
+			],
+			[
+				"set",
+				"app/settings.py"
+			],
+			[
+				"activitiy-details.html",
+				"activitiy-details.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
